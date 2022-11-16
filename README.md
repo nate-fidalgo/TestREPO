@@ -37,5 +37,7 @@ Just a test repo for temp purposes
 </mrow>
 
 
-
+<br>
+This is a testrepo finally the best way to do math expressions on any website is either mathjax (tex ,mathml,...) or just plan converting using pdf2svg aka a vector base graphics format supported by mostly any newer html versions img tag in the last decades.
+<br>
  $$V_{sphere} = \frac{4}{3}\pi r^3$$
